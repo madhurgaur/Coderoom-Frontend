@@ -7,7 +7,7 @@ function GitHubCorner() {
 
     return (
         <a
-            href="https://github.com/vidhi7973/CodeRoom"
+            href="https://github.com/madhurgaur/Coderoom-Frontend"
             className="github-corner"
             aria-label="View source on GitHub"
             target="_blank"
